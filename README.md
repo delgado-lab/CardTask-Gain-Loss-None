@@ -7,7 +7,7 @@ Event-related functional magnetic resonance imaging of reward-related brain circ
 Biological psychiatry, 55(4), 359-366.<br>
 
 ## Important Filenames:
-*CardTaskRPN.es2* - e-prime main file<br>
+*CardTaskRPN.es2* - e-prime main file (created in E-Studio 2.0 Professional)<br>
 *{}.png* - images needed for the e-prime presentation<br>
 
 ## File Descriptions
