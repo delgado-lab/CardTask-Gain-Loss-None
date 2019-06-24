@@ -9,6 +9,7 @@ Biological psychiatry, 55(4), 359-366.<br>
 **Important Filenames:**<br>
 *CardTaskRPN.es2* - e-prime main file<br>
 *{}.png* - images needed for the e-prime presentation<br>
+
 **File Descriptions**<br>
 **CardTaskRPN.es2:**<br>
 *Experimental Design:* 3 conditions (Reward, Punishment) within subjects <br>
@@ -18,6 +19,7 @@ Event Timing (each trial) -
 1.	Input guess: 2s
 2.	Outcome: 1s, Reward/Punishment/Neutral (24/24/16 trials), or “no response” on missed response trials
 3.	Inter-trial interval: 4/6/8s (50%/25%/25%)<br>
+<a/>
 *Trial Counts and other details:*<br>
 64 experimental trials, random trial order<br>
 Keyboard input: accepts “1” or “b” for “lower” guess, “2” or “y” for “higher” guess. Initial screens accept “t” to advance. “trigger” expects “t” to begin experiment.<br>
