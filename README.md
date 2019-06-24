@@ -1,10 +1,10 @@
-**Description of Task Files for “CardTaskRPN”**
+**Description of Task Files for “CardTaskRPN”**<br>
 
-**Used in publications:**
-Task is very similar (differences in trial numbers) to the one used in: 
-May, J. C., Delgado, M. R., Dahl, R. E., Stenger, V. A., Ryan, N. D., Fiez, J. A., & Carter, C. S. (2004). 
-Event-related functional magnetic resonance imaging of reward-related brain circuitry in children and adolescents. 
-Biological psychiatry, 55(4), 359-366.
+**Used in publications:**<br>
+Task is very similar (differences in trial numbers) to the one used in: <br>
+May, J. C., Delgado, M. R., Dahl, R. E., Stenger, V. A., Ryan, N. D., Fiez, J. A., & Carter, C. S. (2004). <br>
+Event-related functional magnetic resonance imaging of reward-related brain circuitry in children and adolescents. <br>
+Biological psychiatry, 55(4), 359-366.<br>
 
 **Important Filenames:**
 *CardTaskRPN.es2* - e-prime main file
